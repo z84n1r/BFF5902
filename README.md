@@ -1,56 +1,59 @@
 java c
 BFF5902
 Introduction to risk management – Semester 2, 2024
-1. A bank believes it has industry best practice risk management and therefore decides to increase its risk-taking to beat its competitors. Which of the following theories BEST describes the bank's risk behaviour?
-A. Risk compensation theory
-B. Habituated action theory
-C. Social action theory
-D. Protection motivation theory
-2. An organisation finds an unexpected relationship between the height of customers and the frequency of shoplifting. lt consequently implements bag searches for tall customers.
-Which of the following statements BEST describes a potential bias?
-A. The organisation may be in error due to the above average effect
-B. The organisation exhibits calibration bias because it believes the data is accurate.
-C. The organisation is likely to be correct most of the time because the data proves a predictive relationship
-D. The organisation may be in error because of magical thinking
-3. In general, individuals are more averse to experiencing a loss than experiencing a decrease in profit of the same size
-True
-False
-4. A commodity trader notices that the daily oil price has fallen four days in a row and decides to buy on the fifth day because the probability of an increase in price is now more likely.
-Which of the following statements BEST describes the trader's possible bias?
-A. The trader is incorrect and suffers from the above average effect bias
-B. The trader is correct and prices are more likely to rise after a sequence of falls because the price is certain to catch up with a further sequence of daily increases
-C. The trader is using a rule of thumb that may be incorrect
-D. The trader is exhibiting gambler's fallacy and the price is not guaranteed to increase after a series of decreases
-5. Risks can be identified using SWOT analysis. Which of the following statements is TRUE？
-A. All of the others
-代 写BFF5902 Introduction to risk management 4 – Semester 2, 2024
-代做程序编程语言B. Opportunities have an external origin
-C. Weaknesses and threats represent risks
-D. Strengths and opportunities represent risks
-6. Insurance companies are unwilling to insure the financial successes of many small businesses because:
-A. The risk is speculative and involves moral hazard.
-B. The risk is particular to the individual.
-C. The risk is pure and particular.
-D. All of the others.
-7. Which of the following statements is FALSE?
-A. An organisation's risk taxonomy may be structured primarily by organisational units, then by risk types, and then by risk subtypes.
-B. An organisation's risk taxonomy must always be structured primarily by risk types common across all organisational units, then by risk subtypes.
-C. A risk taxonomy is a comprehensive structured hierarchical set of risk categories and subcategories into which known risks are organised
-D. How a risk is categorised will determine the risk owner.
-8. Risk management is the systematic and coordinated activities to identify, assess and treatrisks faced by an organisation in order to avoid all unexpected deviations from its goals.
-True
-False
-9. Which of the following is NOT an element of the risk criteria:
-A. A matrix describing how likelihood and consequences are combined to form. a risk scale.
-B. A scale describing how consequence is defined.
-C. A scale describing how likelihood is defined
-D. A statement stating which risks are prohibited
-10. A company can invest in a new project and earn S1 million. It might also earn nothing.
-The probability of the project's success is 10%. The company invests $100,000 in the project. Which of the following statements is TRUE?
-A. The absolute risk premium is S10,000.
-B. The relative risk premium is 10%
-C. The company is risk-neutral.
-D. The certainty equivalent amount of the project is S1 million.
+1. Which of the following statements does best describes the risk criteria?
+A. A set of rules by which risks are systematically measured for significance.
+B. An expression of the Board's risk appetite
+C. Defining the level of significance to guide risk oversight and governance.
+D. All of the above
+2. Which of the following does NOT present a risk to an organisation?
+A. Dragon King
+B. Known-known
+C. Known-unknown.
+D. Unknown-unknown.
+3. A risk matrix defines different risk levels by showing combinations of the likelihood scale and the control effectiveness rating.
+A. True
+B. False
+4. Which of the following statements best describes a life insurance contract?
+A. A speculative risk
+B. A dynamic risk
+C. A particular risk
+D. A fundamental risk
+5. The maximum amount of risk that an organisation is able to support in pursuit of its objectives is known as its risk appetite.
+A. True
+B. False
+6. Risk tolerance is the ability of an individual to discern a certain amount of risk.
+A. True
+B. False
+7. A rare and extreme event that is the result of a complex interaction of known systems is termed a Black Swan.
+A. True
+B. False
+8. Which of the following statements best describes a risk after it has been treated?
+A. Inherent risk
+B. Residual risk
+C. Acceptable risk
+D. Zero risk
+9. Which of the following statements is TRUE?
+A. The organisation's risk appetite statement is a formal written document that states th代 写BFF5902 Introduction to risk management 3 – Semester 2, 2024
+代做程序编程语言e Chief Executive Officers risk appetite.
+B. A higher tolerance for risk will cause an individual to be better at perceiving the risk.
+C. The risk appetite statement is a formal written document that states which risks are acceptable to an organisation.
+D. Individuals in an organisation will be able to equally perceive a risk
+10. The Delphi method is best described by which of the following statements?
+A. A structured workshop in which a question is iteratively repeated in order to encourage consensus amongst participants.
+B. An iterative survey method designed to remove anchoring bias from experts
+C. A computer program that estimates the amount of cash at risk due to uncertainties in economic factors.
+D. An iterative survey method designed to remove availability bias from participants
+11. Which of the following risks should receive the highest priority for corrective treatment to its control?
+A. Control critical risks
+B. Over-controlled risks.
+C. Low inherent risks with weak controls
+D. High inherent risks with weak controls.
+12. Which of the following statements best describes the purpose of risk management?
+A. To maximise the value of the firm to all stakeholders by optimising the level of risk-taking.
+B. To reduce the risk of missing key objectives by the removal of all identified risks.
+C. To most cost effectively manage the cost of insurance.
+D. To maximise the capital value of the firm and therefore the wealth of its shareholders.
 
 
 
