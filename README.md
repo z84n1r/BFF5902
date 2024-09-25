@@ -1,63 +1,83 @@
 java c
 BFF5902
 Introduction to risk management – Semester 2, 2024
-1. Which of the following statements does best describes the risk criteria?
-A. A set of rules by which risks are systematically measured for significance.
-B. An expression of the Board's risk appetite
-C. Defining the level of significance to guide risk oversight and governance.
-D. All of the above
-2. Which of the following does NOT present a risk to an organisation?
-A. Dragon King
-B. Known-known
-C. Known-unknown.
-D. Unknown-unknown.
-3. A risk matrix defines different risk levels by showing combinations of the likelihood scale and the control effectiveness rating.
-A. True
-B. False
-4. Which of the following statements best describes a life insurance contract?
-A. A speculative risk
-B. A dynamic risk
-C. A particular risk
-D. A fundamental risk
-5. The maximum amount of risk that an organisation is able to support in pursuit of its objectives is known as its risk appetite.
-A. True
-B. False
-6. Risk tolerance is the ability of an individual to discern a certain amount of risk.
-A. True
-B. False
-7. A rare and extreme event that is the result of a complex interaction of known systems is termed a Black Swan.
-A. True
-B. False
-8. Which of the following statements best describes a risk after it has been treated?
-A. Inherent risk
-B. Residual risk
-C. Acceptable risk
-D. Zero risk
-9. Which of the following statements is TRUE?
-A. The organisation's risk appetite statement is a formal written document that states th代 写BFF5902 Introduction to risk management 3 – Semester 2, 2024
-代做程序编程语言e Chief Executive Officers risk appetite.
-B. A higher tolerance for risk will cause an individual to be better at perceiving the risk.
-C. The risk appetite statement is a formal written document that states which risks are acceptable to an organisation.
-D. Individuals in an organisation will be able to equally perceive a risk
-10. The Delphi method is best described by which of the following statements?
-A. A structured workshop in which a question is iteratively repeated in order to encourage consensus amongst participants.
-B. An iterative survey method designed to remove anchoring bias from experts
-C. A computer program that estimates the amount of cash at risk due to uncertainties in economic factors.
-D. An iterative survey method designed to remove availability bias from participants
-11. Which of the following risks should receive the highest priority for corrective treatment to its control?
-A. Control critical risks
-B. Over-controlled risks.
-C. Low inherent risks with weak controls
-D. High inherent risks with weak controls.
-12. Which of the following statements best describes the purpose of risk management?
-A. To maximise the value of the firm to all stakeholders by optimising the level of risk-taking.
-B. To reduce the risk of missing key objectives by the removal of all identified risks.
-C. To most cost effectively manage the cost of insurance.
-D. To maximise the capital value of the firm and therefore the wealth of its shareholders.
-
-
-
-
+1. A home-owner buys an insurance contract for the replacement cost of her house in the event that it is destroyed by fire. This is an example of which of the following categories of risk?
+Select one:
+a) Fundamental risk and static risk
+b) Particular risk and pure risk
+c) Dynamic risk and speculative risk
+d) None of the above
+2. Cash Flow at Risk is a quantitative analysis method that describes the level of financial consequence for a given likelihood.
+Select one:
+True
+False
+3. Which of the following is an external source of uncertainty?
+Select one:
+a) Organisational resistance to change
+b) Theft of customer information due to cyber attack
+c) Failure to comply with a law
+d) Poor strategy that fails to anticipate competition adequately
+4. A risk level scale comprising qualitative descriptors such as 'High', 'Medium' and 'Low' is an example of a ratio measurement scale.
+Select one:
+True
+False
+5. Which of the following statements is TRUE?
+a) A fully effective control is defined as one where The residual risk is made equal to the intrinsic risk.
+b) The inherent risk is low.
+c) The risk has been reduced below the level that is considered As Low as Reasonably Practicable (ALARP).
+d) The residual risk has been lowered to the level intended.
+6. The Three Lines of Defence Model states that the second line management oversight functions are ultimately responsible for the organisation’s risk culture and maintaining a robust risk management framework.
+Select one:
+True
+False
+7. Risk capacity is defined as that level of risk that the Board of an organisation is willing to accept in pursuit of the organisation’s goals.
+Select one:
+True
+False
+8. Which of the following statements is TRUE?
+According to AS ISO 31000:2018:
+a) Risk is the effect of uncertainty on objectives.
+b) Risk is the negative effect of uncertainty on objectives.
+c) Risk is a condition in which there is a possibility of an adverse deviation from a desired outcome that is expected or hoped for.
+d) None of the above.
+9. A worker avoids wearing protective clothing solely for the reason that nothing advers代 写BFF5902 Introduction to risk management 2 – Semester 2, 2024Python
+代做程序编程语言e has happened to them yet.
+Which of the following theories best explains their behaviour?
+a) Risk compensation theory.
+b) Habituated action theory.
+c) Protection motivation theory.
+d) Social action theory.
+10. When designing the risk matrix, which of the following is NOT consistent with a risk-averse organisation?
+a) For the same consequence rating, risk levels remain the same or become more severe as the likelihood increases.
+b) For the same likelihood rating, risk levels remain the same or become more severe as consequence rating becomes more severe
+c) For the most severe consequence rating, the worst risk level rating is given regardless of likelihood rating.
+d) For the same consequence rating, risk levels remain the same or become more severe as the likelihood decreases.
+11. Which of the following is NOT an element of the risk criteria:
+a) A statement stating which risks are prohibited.
+b) A matrix describing how likelihood and consequences are combined to form. a risk level scale.
+c) A scale describing how consequence is measured.
+d) A scale describing how likelihood is defined.
+12. When people are upset, angry or fearful they are more likely to give weight to negative information and less weight to positive information.
+Which of the following theories of risk communication BEST describes this effect?
+a) Negative dominance.
+b) Trust determination.
+c) Mental noise.
+d) Risk perception.
+13. Risk management is the systematic and coordinated activities to identify, assess and treat risks faced by an organisation in order to improve the likelihood of it achieving its objectives
+Select one:
+True
+False
+14. Which of the following statements BEST describes a risk event that is rare, has an extremely large consequence and is unpredicted but rationalised after the event?
+a) Black Swan.
+b) Dragon King.
+c) Unprecedented.
+d) Catastrophic.
+15. In which of the following components of the Risk Architecture would you expect to find a risk policy and a risk appetite statement?
+Select one:
+a) Risk Management Framework
+b) Risk Management Process
+c) Risk Assessment
+d) Risk Management Principles
 
 
 
